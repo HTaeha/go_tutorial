@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	accounts "go_tutorial/nomadCoder/practiceStruct/banking"
+	accounts "go_tutorial/nomadCoder/1.practiceStruct/banking"
 )
 
 type person struct {

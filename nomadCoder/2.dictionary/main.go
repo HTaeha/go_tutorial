@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go_tutorial/nomadCoder/dictionary/mydict"
+	"go_tutorial/nomadCoder/2.dictionary/mydict"
 )
 
 func main() {
